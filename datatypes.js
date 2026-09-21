@@ -1,11 +1,12 @@
-"use strict";   //treat all js code as newer versio
++"use strict";   //treat all js code as newer versio
 
 // alert(3+3) //we are using noede.js ,not browaer
 
 console.log("mayuri")
 
 let name = "mayuri"
-let age = 19
+let age = 19 
+
 let isLoggedIn = "false"
 let state = "null"
 
@@ -20,3 +21,4 @@ let state = "null"
 
 // object =>used the most
 console.log(typeof age);
+  
